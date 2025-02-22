@@ -1,2 +1,2 @@
-# CV_FILE
-Basic Html file
+[Contribution
+guidelines for this project](docs/CONTRIBUTING.md)
